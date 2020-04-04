@@ -4,3 +4,4 @@ subtitles/*
 !subtitles/Nils Grandelius
 venv/
 .idea
+.DS_Store
