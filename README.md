@@ -2,8 +2,10 @@
 
 This project is created in honour of our beloved [Agadmator](https://www.youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA).
 
-After seeing many comments like ![comment](images/comment.png) I decided that it'd be fun to make a compilation of all
+After seeing many comments listing timestamps of Agadmator's phrases, I decided that it'd be fun to make a compilation of all
 Agadmator's phrases such is *Hello everyone*, *Sorry about that*, *It was in this position* and many others.
+
+![comment](images/comment.png)
 
 ## Installation
 
