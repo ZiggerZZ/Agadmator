@@ -43,3 +43,7 @@ It will appear in `compilations/` directory.
 * "captures captures and captures"
 * "give you a couple of seconds"
 * "enjoy the show"
+
+## License
+
+[MIT](LICENSE)
