@@ -1,0 +1,6 @@
+videos/*
+!videos/Nils Grandelius
+subtitles/*
+!subtitles/Nils Grandelius
+venv/
+.idea
